@@ -3,7 +3,6 @@
 ## Spring 2024 Course
 
 - **Instructor**: Dr. Ahmad Mahmoudi Aznaveh  
-  [Dr. Mahmoudi's Faculty Page](http://faculties.sbu.ac.ir/~a_mahmoudi/)
 
 ## Table of Contents
 
