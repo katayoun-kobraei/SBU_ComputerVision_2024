@@ -1,6 +1,4 @@
 # Second Assignment
-
-### Instructor: Dr. Ahmad Modi  
 ---
 
 ## Overview
